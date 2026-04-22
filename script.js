@@ -28,6 +28,7 @@ function showNextQuestion() {
 // TODO: Call showNextQuestion to load the first question when the page loads
 
 function submitAnswer(event) {
+    console.log("Submit clicked");
     // TODO: Prevent the form from reloading the page
 
     // Get the radio button input elements

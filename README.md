@@ -8,6 +8,12 @@ I am learning how to use objects and arrays to work with data in a quiz app
 - I can use a for loop to iterate through an array of user answer and count how many are correct​
 - I can use DOM functions to set text and get form values
 
+# Project Setup
+1. Install *Live Server*
+2. Go Live and open inspection tool
+3. Inspect the webpage to understand the HTML structure - what tags are used, tag ids, styles, etc.
+4. Verify that ```script.js``` is linked correctly and running when the page loads
+
 # Development Outline
 
 1. Store each question, answer choices, and the correct answer in an object (we'll start with two)
